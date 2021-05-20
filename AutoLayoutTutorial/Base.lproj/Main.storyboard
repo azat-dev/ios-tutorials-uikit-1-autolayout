@@ -38,8 +38,8 @@
                         <constraints>
                             <constraint firstItem="uMx-sN-yY8" firstAttribute="top" secondItem="UFQ-Dd-AJB" secondAttribute="bottom" constant="40" id="1D1-Kd-V0z"/>
                             <constraint firstItem="uMx-sN-yY8" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="MPq-pb-1et"/>
+                            <constraint firstItem="uMx-sN-yY8" firstAttribute="trailing" secondItem="UFQ-Dd-AJB" secondAttribute="trailing" id="TFK-xS-RJH"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="uMx-sN-yY8" secondAttribute="bottom" constant="8" id="XOU-oU-fjv"/>
-                            <constraint firstItem="uMx-sN-yY8" firstAttribute="leading" secondItem="UFQ-Dd-AJB" secondAttribute="leading" id="be2-46-aHh"/>
                         </constraints>
                     </view>
                 </viewController>
